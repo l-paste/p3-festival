@@ -1,7 +1,7 @@
 # Projet 3 - Analysez les besoins de votre client pour son Festival de films
 **Formation OpenClassrooms, parcours Développeur d'application front-end**
 
-**Consigne :** 
+**Consignes :** 
 
 > À partir de l'analyse des besoins du client, créer un cahier des
 > charges (avec benchmark, liste des besoins, spécifications techniques,
