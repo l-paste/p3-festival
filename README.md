@@ -15,4 +15,4 @@
 
 **Livrables :**
 - [Cahier des charges](/pdf/Festival-CDC.pdf)
-- [Prototype HTML/CSS](https://l-paste.github.io/p3-festival/)
+- [Prototype HTML/CSS](https://l-paste.github.io/p3-festival/index.html)
